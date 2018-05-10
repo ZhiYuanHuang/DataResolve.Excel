@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DataResolve.Excel</id>
+    <version>1.0.0</version>
+    <title>DataResolve.Excel</title>
+    <authors>Zion</authors>
+    <owners>Zion</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>解析Excel文件，映射成实体对象</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+  <files>
+	<file src="bin\Release\netstandard2.0\DataResolve.Excel.dll" target="lib\netstandard2\DataResolve.Excel.dll" />
+	<file src="bin\Release\netstandard2.0\DataResolve.Excel.xml" target="lib\netstandard2\DataResolve.Excel.xml" />
+  </files>
+</package>

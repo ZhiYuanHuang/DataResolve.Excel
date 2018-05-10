@@ -1,0 +1,10 @@
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\obj\Release\netstandard2.0\DataResolve.Excel.csproj.CoreCompileInputs.cache
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\obj\Release\netstandard2.0\DataResolve.Excel.AssemblyInfoInputs.cache
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\obj\Release\netstandard2.0\DataResolve.Excel.AssemblyInfo.cs
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\bin\Release\netstandard2.0\DataResolve.Excel.xml
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\bin\Release\netstandard2.0\DataResolve.Excel.deps.json
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\bin\Release\netstandard2.0\DataResolve.Excel.dll
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\bin\Release\netstandard2.0\DataResolve.Excel.pdb
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\obj\Release\netstandard2.0\DataResolve.Excel.dll
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\obj\Release\netstandard2.0\DataResolve.Excel.pdb
+D:\project\WizGis\WizGisBackService\src\DataResolve.Excel\obj\Release\netstandard2.0\DataResolve.Excel.csprojResolveAssemblyReference.cache

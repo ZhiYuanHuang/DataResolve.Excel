@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataResolve.Excel</name>
+    </assembly>
+    <members>
+        <member name="P:DataResolve.Excel.Attributes.DescribeAttribute.FieldName">
+            <summary>
+            字段名
+            </summary>
+        </member>
+        <member name="P:DataResolve.Excel.Attributes.DescribeAttribute.DefaultValue">
+            <summary>
+            缺失或null的默认值
+            </summary>
+        </member>
+        <member name="P:DataResolve.Excel.Core.DataConfig.FieldRow">
+            <summary>
+            字段行
+            </summary>
+        </member>
+        <member name="P:DataResolve.Excel.Core.DataConfig.DataStartRow">
+            <summary>
+            数据开始行
+            </summary>
+        </member>
+        <member name="P:DataResolve.Excel.Core.DataConfig.SheetIndex">
+            <summary>
+            sheet索引
+            </summary>
+        </member>
+    </members>
+</doc>
